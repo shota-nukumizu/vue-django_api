@@ -24,6 +24,7 @@ django-admin startproject backend
 一応、インストールの確認のため以下のコマンドで開発者サーバを立ち上げる。
 
 ```
+cd backend
 py manage.py runserver
 ```
 
