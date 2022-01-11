@@ -31,6 +31,22 @@ py manage.py runserver
 何も問題がなければインストールは完了。
 
 
+# ディレクトリ
+
+```
+C:.
+│  db.sqlite3
+│  manage.py
+│  README.md
+│
+└─backend
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+```
+
 # 開発環境
 
 * Visual Studio Code
